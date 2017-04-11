@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>TMcVFPageBuilderCrtl</members>
+        <members>custable</members>
+        <members>dfDefault</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexComponent</name>
+    </types>
+    <types>
+        <members>DragForce</members>
+        <members>HighlightPanelConfig</members>
+        <members>TMcVFPageBuilderV2</members>
+        <name>ApexPage</name>
+    </types>
+    <types>
+        <members>*</members>
+        <name>ApexTrigger</name>
+    </types>
+    <types>
+        <members>ShizhaoFYP</members>
+        <name>StaticResource</name>
+    </types>
+    <version>36.0</version>
+</Package>

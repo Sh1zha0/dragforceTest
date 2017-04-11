@@ -1,0 +1,17 @@
+{
+    "projectName": "FYP1617",
+    "username": "shizhaolee@gmail.com",
+    "id": "76ab0980-a0ee-11e6-abff-47c6385093ad",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://eu11.salesforce.com",
+    "workspace": "C:\\Users\\shizh\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

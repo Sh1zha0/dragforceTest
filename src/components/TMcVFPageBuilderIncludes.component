@@ -1,0 +1,8 @@
+<apex:component >
+
+	<script type="text/javascript" src="{!URLFOR($Resource.VFGenAssets, '/js/jquery-2.0.0.min.js')}"></script>
+	<script type="text/javascript" src="{!URLFOR($Resource.VFGenAssets, '/js/jquery-ui.js')}"></script>
+	<link href="{!URLFOR($Resource.VFGenAssets, '/css/bootstrap-combined.min.css')}" rel="stylesheet" media="screen" />
+	<script type="text/javascript" src="{!URLFOR($Resource.VFGenAssets, '/js/bootstrap.min.js')}"></script>
+    <script type="text/javascript" src="{!URLFOR($Resource.ShizhaoFYP,'/FYP1617/apexLink.js')} "></script>
+</apex:component>
